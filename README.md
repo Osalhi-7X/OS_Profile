@@ -47,6 +47,7 @@ I once reverse-engineered a radio protocol to ensure our system wasn’t uninten
 - [Kaggle](https://www.kaggle.com/oussamasalhi)
 
 ---
+
 ### 🛠️ Languages & Tools
 
 #### 💻 Programming Languages
@@ -100,6 +101,8 @@ I once reverse-engineered a radio protocol to ensure our system wasn’t uninten
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
+
+
 ---
 
 ### 📊 GitHub Stats
